@@ -1,5 +1,5 @@
 {
-    "name": "evryn/laravel-toman",
+    "name": "sh-sh-dev/laravel-toman",
     "description": "A simple stable Laravel package to handle popular payment gateways in Iran including ZarinPal and IDPay.",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
             "homepage": "https://amirreza.in"
         }
     ],
-    "homepage": "https://github.com/evryn/laravel-toman",
+    "homepage": "https://github.com/sh-sh-dev/laravel-toman",
     "keywords": [
         "zarinpal", "زرین پال",
         "idpay", "آیدی پی",
@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "illuminate/support": "^7.0|^8.0|^9.0",
+        "illuminate/support": "^7.0|^8.0|^9.0|^10.0",
         "guzzlehttp/guzzle": "^6.3|^7.0"
     },
     "require-dev": {
